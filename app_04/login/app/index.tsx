@@ -5,7 +5,6 @@ export default function Index () {
         <view            
 
     )
-    
 }
 const style = StyleSheet.create({
     container: (
